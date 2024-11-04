@@ -119,7 +119,7 @@ section .form-words {
 
 .text {
     display: block;
-    margin: 2.4rem;
+    margin: 2rem;
     text-align: center;
     text-decoration: none;
     color: var(--almost-white);
@@ -128,4 +128,8 @@ section .form-words {
 
 .register-body footer:hover {
     color: var(--secondary-color-light);
+}
+
+.form-words-center {
+    margin-bottom: 18px;
 }
